@@ -1,0 +1,19 @@
+@import "tailwindcss";
+:root {
+  --off: #F8F8FC;
+  --gray-100: #F0F0F6;
+  --gray-300: #C8C8D8;
+  --gray-500: #888899;
+  --gray-800: #22223B;
+  --accent: #5B4FCF;
+  --accent-light: #EAE8FB;
+  --accent-mid: #8F85E0;
+}
+
+body {
+  font-family: 'DM Sans', sans-serif;
+}
+
+.serif {
+  font-family: 'DM Serif Display', serif;
+}
